@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    min-height: 100vh;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
+h1 {
+    color: white;
+}
+.fa-empire {
+    font-size: 4em;
+    color: red;
+}
